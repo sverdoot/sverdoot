@@ -1,8 +1,9 @@
 ### Hi there 👋
+
 - 🔭 I’m currently receiving a PhD degree at HSE.
 - 🤔 Interested in Generative Modeling, Sampling, Bayesian Inference, etc.
 - 📫 How to reach me: lagutin.em@phystech.edu
-- 
+
 <!--
 **sverdoot/sverdoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
