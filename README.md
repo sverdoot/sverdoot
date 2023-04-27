@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently receiving a PhD degree at HSE.
-- 🤔 Interested in Generative Modeling, Sampling, Bayesian Inference, etc.
+- 🤔 Interested in Generative Modeling, Sampling, Probabilistic ML e, etc.
 - 📫 How to reach me: lagutin.em@phystech.edu
 
 <!--
